@@ -2,11 +2,11 @@
 
 ## RescueTime
 
-![RescueTime](./image/Screenshot RescueTime 2021-06-30.png)
+![RescueTime](./image/p1.png)
 
 ## Paiza
 
-- ![oshito manaberu](./image/Screenshot Paiza 2021-06-29.png)
+- ![oshito manaberu](./image/p2.png)
 
 ## Python3
 
